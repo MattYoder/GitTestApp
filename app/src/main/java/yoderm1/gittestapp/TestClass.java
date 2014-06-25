@@ -5,5 +5,5 @@ package yoderm1.gittestapp;
  */
 public class TestClass {
     public int var = 2;
-    public FINAL int varFinal =3;
+    public final int varFinal =3;
 }
